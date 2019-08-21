@@ -7,10 +7,11 @@ It uses the gopkg.in/natefinch/npipe.v2 package, a Golang wrapper for Windows na
 ## Example
 
 ### Server
-
-![alt Screenshot 1](https://github.com/mattiareggiani/go-smbshell/blob/master/server.jpg)
+<p align="center">
+<img src="https://github.com/mattiareggiani/go-smbshell/blob/master/server.jpg" height="200">
+</p>
 
 ### Client
-
-![alt Screenshot 2](https://github.com/mattiareggiani/go-smbshell/blob/master/client.jpg)
-
+<p align="center">
+  <img src="https://github.com/mattiareggiani/go-smbshell/blob/master/client.jpg" height="400">
+</p>
