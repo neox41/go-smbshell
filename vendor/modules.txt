@@ -1,0 +1,4 @@
+# github.com/mervick/aes-everywhere v0.0.0-20190107195546-5de309eda57a
+github.com/mervick/aes-everywhere/go/aes256
+# gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce
+gopkg.in/natefinch/npipe.v2
