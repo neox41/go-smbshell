@@ -13,7 +13,7 @@ import (
 
 func main() {
 	if len(os.Args) < 3 {
-		fmt.Println("Usage: client.exe <IP> <Key>")
+		fmt.Println(fmt.Sprintf("Usage: %s <IP> <Key>", os.Args[0]))
 		os.Exit(1)
 	}
 	target := os.Args[1]
