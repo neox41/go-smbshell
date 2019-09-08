@@ -11,7 +11,7 @@ import (
 
 func main() {
 	if len(os.Args) < 2 {
-		fmt.Println("Usage: client.exe <Key>")
+		fmt.Println("Usage: server.exe <Key>")
 		os.Exit(1)
 	}
 	config.Key = os.Args[1]
