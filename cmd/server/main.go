@@ -11,7 +11,7 @@ import (
 
 func main() {
 	if len(os.Args) < 2 {
-		fmt.Println("Usage: server.exe <Key>")
+		fmt.Println(fmt.Sprintf("Usage: %s <IP> <Key>", os.Args[0]))
 		os.Exit(1)
 	}
 	config.Key = os.Args[1]
